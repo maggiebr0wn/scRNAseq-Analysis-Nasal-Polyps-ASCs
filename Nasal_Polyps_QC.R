@@ -5,7 +5,7 @@ library("rfUtilities")
 library(Seurat)
 library("zoo")
 
-### 8-19-2020 Redo Nasal Polyps ###
+### 8-19-2020 Preliminary Assessment of Nasal Polyps Data ###
 # 1. Look at each patient individually
 # 2. Assess mitochondrial content, gene count, % IgGenes
 # 3. Integrated vs Not Integrated
