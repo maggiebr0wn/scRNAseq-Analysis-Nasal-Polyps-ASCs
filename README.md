@@ -1,4 +1,4 @@
-# scRNAseq-Analysis-NasalPolypsASCs
+# scRNAseq-Analysis-Nasal-Polyps-ASCs
 ## Single cell RNA-seq analysis of Ige antibody secreting cells from patients with chronic rhinosinusitis with nasal polyposis.
 
 **Please see our publication:** 
